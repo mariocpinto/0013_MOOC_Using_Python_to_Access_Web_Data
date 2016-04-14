@@ -1,5 +1,5 @@
 
-### Week 1: Getting Started:
+### Week 1: Getting Started
 
 These are the contents of week 1:  
 ![Week 1 contents - Using Python to Access Web Data](../Images/Using_Python_to_Access_Web_Data_Week_1_Content.png)
